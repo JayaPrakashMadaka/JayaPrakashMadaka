@@ -49,7 +49,7 @@ I regularly write deep-dive articles on system design, storage internals, and ad
 ## 📫 Connect With Me
 
 - ✉️ [Email](mailto:jayaprakashmadaka20@gmail.com)
-- ✉️ [HashNode Blogs](https://jaya-prakash.hashnode.dev/)
+- ✉️ [HashNode](https://hashnode.com/@jayaprakash20)
 - ✉️ [Dev Blogs](https://dev.to/jayaprakash20)
 - ✉️ [SubStack Blogs](https://jayaprakash0820.substack.com/)
 - 📘 [LinkedIn](https://www.linkedin.com/in/jayaprakash-madaka-91a76524b/)
